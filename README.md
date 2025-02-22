@@ -44,8 +44,8 @@ pip install streamlit langchain faiss-cpu PyPDF2 python-docx pandas markdown pyt
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Eugene-WebDev/Enhanced-RAG-Chat-App.git
+   cd Enhanced-RAG-Chat-App
    ```
 
 2. **Create a virtual environment (optional but recommended):**
