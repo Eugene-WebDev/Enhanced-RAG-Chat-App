@@ -1,0 +1,39 @@
+Order Payment
+
+1. What payment methods are accepted for placing an order?
+
+
+2. When is the payment required for an order to be confirmed?
+
+
+3. How long does it take to receive a refund after return approval?
+
+
+
+Delivery
+
+4. What is the processing time before an order is shipped?
+
+
+5. How much does Express Shipping cost, and how long does it take?
+
+
+6. If I place an order at 10:00 AM, can I get same-day delivery?
+
+
+7. When will I receive tracking details for my order?
+
+
+
+Terms of Return
+
+8. What is the return window for items?
+
+
+9. Are there any conditions for returning an item?
+
+
+10. Who pays for return shipping?
+
+
+11. How long does it take to process a refund after returning an item?
