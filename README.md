@@ -77,7 +77,7 @@ pip install streamlit langchain faiss-cpu PyPDF2 python-docx pandas markdown pyt
 1. **Start the Streamlit App:**
 
    ```bash
-   streamlit run main1.py
+   streamlit run main.py
    ```
 
 2. **Upload Documents:**
