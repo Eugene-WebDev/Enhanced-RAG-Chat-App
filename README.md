@@ -92,7 +92,7 @@ pip install streamlit langchain faiss-cpu PyPDF2 python-docx pandas markdown pyt
 
 ## Code Overview
 
-- **main1.py**:  
+- **main.py**:  
   Handles the UI using Streamlit, manages file uploads, chat history, and integrates the RAG chain to answer user queries.
 
 - **split_doc_vector_store.py**:  
