@@ -1,0 +1,34 @@
+{
+  "order_payment": {
+    "accepted_methods": ["Credit Card", "PayPal", "Cash on Delivery"],
+    "payment_terms": "Payment is required at order placement. Orders are confirmed only after successful payment authorization.",
+    "refund_policy": "Refunds will be issued to the original payment method within 7 business days after return approval."
+  },
+  "delivery": {
+    "processing_time": "1-2 business days",
+    "shipping_options": [
+      {
+        "method": "Standard Shipping",
+        "cost": 5.00,
+        "estimated_delivery": "5-7 business days"
+      },
+      {
+        "method": "Express Shipping",
+        "cost": 15.00,
+        "estimated_delivery": "2-3 business days"
+      },
+      {
+        "method": "Same Day Delivery",
+        "cost": 25.00,
+        "estimated_delivery": "Delivered on the same day if ordered before 12:00 PM"
+      }
+    ],
+    "tracking_info": "Tracking details will be provided upon shipment."
+  },
+  "terms_of_return": {
+    "return_window": "30 days from the date of delivery",
+    "conditions": "Items must be in original condition with all packaging and tags intact. Final sale items are excluded.",
+    "return_shipping": "Return shipping is paid by the customer unless the item is defective or incorrect.",
+    "refund_processing_time": "Refunds are processed within 7-10 business days after receiving the returned item."
+  }
+}
